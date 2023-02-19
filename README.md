@@ -12,4 +12,4 @@ Do the following steps to run the koa single page application with worker in loc
 * Run Project live reload: `npm run start-dev`
 * Run Project without live reload: `npm run start`
 
-![Run Project Image](https://www.tailwindtoolbox.com/templates/nordic-store.png)
+![Run Project Image](https://raw.githubusercontent.com/aatul151278/koa-app/main/run-project.png)
